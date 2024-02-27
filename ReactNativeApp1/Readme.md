@@ -1,8 +1,11 @@
-To startup the React Native Application:
-Run the npm i or npm install in the ReactNativeApp1 Directory.
-This will install all the Different Packages in the
-package.json file.
-
-Then to run the React Native App, Run the Following Command:
+How to start the React Native App:
+First, you will need to install the Expo Go in your Phone Application.
+In your Visual Studio Code, you will need to install all the extensions in the package.json File here.
+A node_modules folder will be created upon Successful Installation of the package.json file.
+To start up the React Native Application, you will need to run the Following Command:
 npx expo start
-Scan the QR Code on your Expo Go Application to start the Application.
+This will show the QR Code that will allowed you to scan and Open the App on your Phone Device.
+
+For more information on starting your React Native App:
+Visit this Website for More Information:
+https://reactnative.dev/docs/environment-setup
